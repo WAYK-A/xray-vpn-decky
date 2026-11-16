@@ -98,3 +98,12 @@ npm run build
 ```
 
 Output: `dist/index.js`.
+
+---
+
+## Участники / Contributors
+
+- **sanrischannel-ui** — автор проекта: идея, код, тестирование на Steam Deck
+- **Kimi (Moonshot AI)** — архитектура плагина, бэкенд и фронтенд, отладка Xray-core TUN, парсинг подписок, решение проблем с правами (setcap/sudo), подготовка релиза
+
+Полный список — в [CONTRIBUTORS.md](CONTRIBUTORS.md).
