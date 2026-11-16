@@ -1,0 +1,29 @@
+# Бинарники ядра — в репозитории только исходники, готовый zip лежит в Releases
+bin/xray
+bin/geoip.dat
+bin/geosite.dat
+
+# Зависимости и сборка фронтенда
+node_modules/
+
+# Локальные настройки/подписки/конфиги плагина — СОДЕРЖАТ UUID И КЛЮЧИ, не коммитить!
+settings/
+*.local.json
+
+# Логи
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# ОС/редакторы
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Артефакты сборки/установки
+backend/out/
+*.zip

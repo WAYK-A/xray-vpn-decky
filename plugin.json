@@ -1,0 +1,16 @@
+{
+  "name": "xray-vpn-decky",
+  "author": "Xray VPN Decky",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "vpn",
+      "xray",
+      "vless",
+      "happ"
+    ],
+    "description": "VPN-клиент (Xray-core) прямо в Gamemode Steam Deck. Совместим с подписками Happ/v2rayTUN: импорт подписки, выбор сервера, подключение из Quick Access Menu.",
+    "image": ""
+  }
+}
