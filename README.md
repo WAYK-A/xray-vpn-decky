@@ -2,6 +2,8 @@
 
 VPN client for Steam Deck: a [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin powered by [Xray-core](https://github.com/XTLS/Xray-core) with native TUN tunneling — works right in Gamemode (Quick Access Menu), no Desktop Mode needed. Supports **Happ/v2rayTUN subscriptions**, `vless://` links and full **Xray JSON configs**. No built-in links — bring your own subscription.
 
+![Xray VPN Decky — главный экран / main screen](docs/screenshots/main.png)
+
 **Languages / Языки:** [English](#english) | [Русский](#русский)
 
 ---
