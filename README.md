@@ -21,7 +21,7 @@ VPN client for Steam Deck: a [Decky Loader](https://github.com/SteamDeckHomebrew
 
 ### Установка
 
-1. Скачайте архив `xray-vpn-decky.zip` из [релизов](https://github.com/USER/xray-vpn-decky/releases) на Deck.
+1. Скачайте архив `xray-vpn-decky.zip` из [релизов](https://github.com/USER/sanrischannel-ui/releases) на Deck.
 2. Включите **режим разработчика** в Decky Loader (Настройки Decky → Developer → включить Developer Mode), чтобы появилась установка из zip.
 3. Установите плагин из zip-архива: Decky → Developer → «Install Plugin from ZIP» → выберите скачанный архив.
 4. Загрузитесь в **Desktop Mode**.
@@ -33,7 +33,6 @@ VPN client for Steam Deck: a [Decky Loader](https://github.com/SteamDeckHomebrew
 
 6. Профит! Вернитесь в Gamemode, откройте Quick Access Menu (кнопка «…») → **Xray VPN Decky** → добавьте свою подписку → выберите сервер → Подключить.
 
-> **Альтернатива (одной командой):** вместо шагов 3–5 можно положить рядом `install.sh` и `xray-vpn-decky.zip` и выполнить `chmod +x install.sh && ./install.sh` в Desktop Mode — скрипт установит плагин, выставит права и перезапустит Decky Loader сам.
 
 > **Важно:** после обновления плагина бинарник xray заменяется, и права нужно выдать заново (повторить шаг 5).
 
@@ -75,8 +74,6 @@ VPN client for Steam Deck: a [Decky Loader](https://github.com/SteamDeckHomebrew
    ```
 
 6. Profit! Go back to Gamemode, open the Quick Access Menu (the "…" button) → **Xray VPN Decky** → add your subscription → pick a server → Connect.
-
-> **Alternative (single command):** instead of steps 3–5, put `install.sh` and `xray-vpn-decky.zip` next to each other and run `chmod +x install.sh && ./install.sh` in Desktop Mode — the script installs the plugin, sets the privileges and restarts Decky Loader for you.
 
 > **Note:** when you update the plugin, the xray binary is replaced and the privileges must be granted again (repeat step 5).
 
