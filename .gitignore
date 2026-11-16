@@ -1,8 +1,3 @@
-# Бинарники ядра — в репозитории только исходники, готовый zip лежит в Releases
-bin/xray
-bin/geoip.dat
-bin/geosite.dat
-
 # Зависимости и сборка фронтенда
 node_modules/
 
